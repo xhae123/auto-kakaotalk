@@ -95,7 +95,7 @@ Claude Code 에서.
 
 설계 결정과 실패 사례는 블로그에.
 
-→ [인간관계를 자동화 해보자](https://xhae123.github.io/posts/auto-kakaotalk/)
+→ [인간관계를 자동화 해보자](https://xhae123.github.io/posts/인간관계를-자동화-해보자/)
 
 
 ## License
